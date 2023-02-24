@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054909841216",
+    "project_id": "melanoma-app-7a4ad",
+    "storage_bucket": "melanoma-app-7a4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054909841216:android:6123e65744d6dab31c44a5",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054909841216-tvhvprq114bprj6crr68lc5pc7u30ibs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "d001900055e0f556ed4ae95552febbb4f7f517fe"
+          }
+        },
+        {
+          "client_id": "1054909841216-fu0jg0g8vcal4tnndm59mkdbolp76pna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmC9ywB31SmQA70f6N3-B3YXug2bAAWjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054909841216-fu0jg0g8vcal4tnndm59mkdbolp76pna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
